@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/badge/Music-Streaming-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Modern-UI-blueviolet?style=for-the-badge">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/isairey/PlexMusic?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/isairey/PlexMusic?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/isairey/PlexMusic?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/isairey/AppEscucharMusica?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/isairey/AppEscucharMusica?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/isairey/AppEscucharMusica?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -172,8 +172,8 @@ PlexMusic/
 ## 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/isairey/PlexMusic.git
-cd PlexMusic
+git clone https://github.com/isairey/AppEscucharMusica.git
+cd AppEscucharMusica
 ```
 
 ---
