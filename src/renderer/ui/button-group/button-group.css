@@ -1,0 +1,18 @@
+.default {
+  display: flex;
+  flex-wrap: nowrap;
+
+  .button:first-child {
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+  }
+
+  .button + .button {
+    border-radius: 0 !important;
+  }
+
+  .button:last-child {
+    border-top-right-radius: 2px !important;
+    border-bottom-right-radius: 2px !important;
+  }
+}
