@@ -92,15 +92,7 @@ La aplicación integra reproducción avanzada, navegación intuitiva y un diseñ
 - 🔄 Sincronización dinámica
 - 🎧 Audio optimizado
 
----
 
-# 🎥 Demo
-
-<div align="center">
-
-https://user-images.githubusercontent.com/demo/plexmusic-demo.mp4
-
-</div>
 
 ---
 
